@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="searchhint">Example : Dhaka or Dhaka,BD</string>
+    <string name="temperature">Temperature :</string>
+    <string name="temp_val">273 K</string>
+    <string name="pressure">Pressure :</string>
+    <string name="press_val">1 atm</string>
+    <string name="wind_speed">Wind Speed :</string>
+    <string name="wind_val">2 Km/h</string>
+    <string name="currentLoc">Your Current City : Khulna</string>
+    <string name="sunrise">Sunrise :</string>
+    <string name="sunset">Sunset :</string>
+    <string name="mostly_cloudy">Mostly Cloudy</string>
+    <string name="weather">Weather :</string>
+    <string name="longitude">Longitude :</string>
+    <string name="latitude">Latitude :</string>
+    <string name="long_val">24.02</string>
+    <string name="lat_val">84.98</string>
+</resources>
