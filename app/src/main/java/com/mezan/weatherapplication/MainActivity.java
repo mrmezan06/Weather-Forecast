@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
     Button btnSearch;
 
 
-    final String APIKEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+    final String APIKEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
